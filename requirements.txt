@@ -1,0 +1,15 @@
+browser-use
+python-dotenv
+openai
+pytest
+pytest-html
+pytest-xdist
+langgraph
+langchain
+langchain-openai
+azure-identity
+azure-core
+pydantic
+pandas
+openpyxl 
+playwright
